@@ -1,0 +1,49 @@
+{
+    "weird-products" : [
+    {
+      "name": "A pre-fabricated home in a shipping container",
+      "price": 36000,
+      "description": "Who says you have to pay exorbitant broker fees to find the home of your dreams? You can make your dreams of homeownership come true as easily as you'd buy a bottle of dish soap, thanks to this storage-container-turned-house, available for a cool $36K.",
+      "features": "pre-fabricated home, shipping container",
+      "image": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/tiny-home.jpg?w=1024&ssl=1"
+    },
+    {
+      "name": "1,500 live ladybugs",
+      "price": 3.05,
+      "description": "Who says you can't buy anything for under $10 anymore? In fact, Amazon shoppers can buy 1,500 crawling, flying somethings for the bargain price of a latte.",
+      "features": "Lady Bird, Live",
+      "image": "https://i1.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/live-ladybugs.jpg?w=1024&ssl=1"
+    },
+    {
+      "name": "Uranium ore",
+      "price": 39.95,
+      "description": "While this small amount of uranium ore is pretty low on the radioactivity meter, it's pretty weird that you can buy it from the same site where you get your gym socks.",
+      "features": "uranium ore, radio active",
+      "image": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/uranium-ore.jpg?w=1024&ssl=1"
+    },
+    {
+      "name": "A cat butt tissue holder",
+      "price": 34.94,
+      "description": "This seems like the nicest thing to be plucked from a cat's rear since, well, ever. And who doesn't like to be stared down with peering, inquisitive eyes each time they need to blow their nose?",
+      "features": "Cat tissue holder",
+      "image": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/71QugMJmYJL._SL1500_.jpg?w=1200&ssl=1"
+    
+    },
+    {
+      "name": "A Human Finger",
+      "price": 15.00,
+      "description": "That's right: you can buy human fingers on Amazon! The perfect gift for the science teacher in your life—or the kid you need to start hiding the scissors from.",
+      "features": "A human finger",
+      "image": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/human-finger.jpg?w=1024&ssl=1"
+    
+    },
+    {
+      "name": "A desktop refrigerator",
+      "price": 38.00,
+      "description": "Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips.",
+      "features": "desktop refrigerator",
+      "image": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/510g-cwJNBL.jpg?w=1200&ssl=1"
+    
+    }
+]
+}
